@@ -9,3 +9,7 @@
 /NativeRendererPluginTest/Logs
 /NativeRendererPluginTest/Library
 /NativeRendererPluginTest/Assembly-CSharp.csproj
+/NativeRendererPluginTest/.vs/NativeRendererPluginTest/v16
+/DirectX12RendererPlugin/DirectX12RendererPlugin.vcxproj.user
+/DirectX12RendererPlugin/DirectX12RendererPlugin.vcxproj.filters
+/DirectX12RendererPlugin/.vs/DirectX12RendererPlugin/v16
