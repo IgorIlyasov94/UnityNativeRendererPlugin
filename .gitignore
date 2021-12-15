@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/NativeRendererPluginTest/UserSettings
+/NativeRendererPluginTest/Temp
+/NativeRendererPluginTest/obj/Debug
+/NativeRendererPluginTest/NativeRendererPluginTest.sln
+/NativeRendererPluginTest/Logs
+/NativeRendererPluginTest/Library
+/NativeRendererPluginTest/Assembly-CSharp.csproj
